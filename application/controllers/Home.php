@@ -22,4 +22,10 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/contact';
 		$this->load->view('fe/includes/template',$data);
 	}
+	
+	function hosting(){
+		$data['page_title'] = 'Web Hosting';
+		$data['main_content'] = 'fe/hosting';
+		$this->load->view('fe/includes/template',$data);
+	}
 }

@@ -141,7 +141,7 @@
                 <div class="media services-info">
                     <i class="flaticon-up-arrow"></i>
                     <div class="media-body">
-                        <h5>Consultative Training</h5>
+                        <h5>WEB SOLUTIONS</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                 <div class="media services-info">
                     <i class="flaticon-commerce"></i>
                     <div class="media-body">
-                        <h5>High Performance Selling</h5>
+                        <h5>BUSINESS SOLUTIONS</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                 </div>
@@ -159,7 +159,7 @@
                 <div class="media services-info">
                     <i class="flaticon-graphic"></i>
                     <div class="media-body">
-                        <h5>Sales Coaching Training</h5>
+                        <h5>MOBILE SOLUTIONS</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                 </div>
@@ -168,7 +168,7 @@
                 <div class="media services-info">
                     <i class="flaticon-social"></i>
                     <div class="media-body">
-                        <h5 class="mt-0">Advisor Program</h5>
+                        <h5 class="mt-0">WEB HOSTING</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                 <div class="media services-info">
                     <i class="flaticon-connection-1"></i>
                     <div class="media-body">
-                        <h5>Selling With Insights</h5>
+                        <h5>SAAS</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                 <div class="media services-info">
                     <i class="flaticon-commerce-1"></i>
                     <div class="media-body">
-                        <h5>Online Marketing</h5>
+                        <h5>ONLINE SERVICES</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                 </div>
@@ -237,11 +237,7 @@
                         <img src="<?php echo base_url();?>assets/img/brands/brand-4.png" alt="brand">
                     </div>
                 </div>
-                <div class="item">
-                    <div class="pad15">
-                        <img src="<?php echo base_url();?>assets/img/brands/brand-1.png" alt="brand">
-                    </div>
-                </div>
+                
             </div>
             <a class="multi-carousel-indicator leftLst" aria-hidden="true">
 				<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>

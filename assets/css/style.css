@@ -1498,6 +1498,14 @@ a {
     padding: 30px;
     box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
 }
+.call-to-action{
+    width: 55px;
+    font-size: 20px;
+    border-radius: 50%;
+    border: 1px dashed #ff214f;
+    text-align: center;
+    margin-right: 20px;
+}
 
 .services-info i {
     font-size: 40px;
@@ -1925,6 +1933,7 @@ a {
     border: 1px dashed #ff214f;
     text-align: center;
     margin-right: 20px;
+    color: #ff214f;
 }
 
 .contact-1 .contact-info h3 {

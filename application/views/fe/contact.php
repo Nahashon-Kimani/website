@@ -33,14 +33,9 @@
                                 <input type="email" name="email" class="form-control" placeholder="Email">
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="form-group subject">
                                 <input type="text" name="subject" class="form-control" placeholder="Subject">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                            <div class="form-group number">
-                                <input type="text" name="phone" class="form-control" placeholder="Number">
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -100,28 +95,29 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="media services-info">
-					<i class="fa fa-phone border" aria-hidden="true"></i>
+                        <i class="fa fa-phone" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Have a question? Call us now. </h5>
+                        <h5>Have a question? Call us. </h5>
                         <p>+254 705 610 800<br>+254 705 610 800</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-commerce"></i>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>High Performance Selling</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h5>Email US</h5>
+                        <p>info@mywebsite.com <br>clients@mywebsite.com </p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-graphic"></i>
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Sales Coaching Training</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h5>We are open</h5>
+                        <p>We are open 24/7</p>
+                        <p>For support and queries</p>
                     </div>
                 </div>
             </div>

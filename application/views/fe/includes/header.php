@@ -109,7 +109,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#">WEB TECH</a>
+                                <a class="nav-link" href="webdev">WEB TECH</a>
                             </li>
 
                             <li class="nav-item">

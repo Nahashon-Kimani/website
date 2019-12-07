@@ -116,8 +116,7 @@
                         <i class="fa fa-calendar" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>We are open</h5>
-                        <p>We are open 24/7</p>
-                        <p>For support and queries</p>
+                        <p>We are open 24/7 <br> For support and queries</p>
                     </div>
                 </div>
             </div>

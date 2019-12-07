@@ -28,4 +28,10 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/hosting';
 		$this->load->view('fe/includes/template',$data);
 	}
+
+	function webdev(){
+		$data['page_title'] = 'Web Development';
+		$data['main_content'] = 'fe/webdev';
+		$this->load->view('fe/includes/template',$data);
+	}
 }

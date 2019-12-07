@@ -54,5 +54,6 @@ $route['about'] = 'home/about';
 $route['404_override'] = '';
 $route['home']='home/home';
 $route['hosting']='home/hosting';
+$route['webdev']='home/webdev';
 $route['contact']='home/contact';
 $route['translate_uri_dashes'] = FALSE;

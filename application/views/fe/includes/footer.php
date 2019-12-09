@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-xl-12">
                 <p class="copy">&copy; <?php echo date("Y"); ?> 
-						<a href="http://mytestwebsite.com/" target="_blank">Theme Vessel</a>. 
+						<a href="http://mytestwebsite.com/" target="_blank">Etagservices Limited</a>. 
 						All right reserved!
 				</p>
             </div>

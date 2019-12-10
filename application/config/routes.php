@@ -57,4 +57,5 @@ $route['mobiletech']='home/mobiletech';
 $route['hosting']='home/hosting';
 $route['webdev']='home/webdev';
 $route['contact']='home/contact';
+$route['businesstech']='home/businesstech';
 $route['translate_uri_dashes'] = FALSE;

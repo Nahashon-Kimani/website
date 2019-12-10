@@ -239,6 +239,7 @@
     </div>
 </div>
 <!-- Previous applications Ends  -->
+<hr class="tall">
 
 <!-- call to action section -->
     <div class="managment-area-2 content-area-2">

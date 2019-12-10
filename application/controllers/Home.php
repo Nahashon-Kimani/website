@@ -40,4 +40,10 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/mobiletech';
 		$this->load->view('fe/includes/template',$data);
 	}
+
+	function businesstech(){
+		$data['page_title'] = 'Business Solutions';
+		$data['main_content'] = 'fe/businesstech';
+		$this->load->view('fe/includes/template',$data);
+	}
 }

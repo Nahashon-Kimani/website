@@ -113,7 +113,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#">BUSINESS TECH</a>
+                                <a class="nav-link" href="businesstech">BUSINESS TECH</a>
                             </li>
 
                             <li class="nav-item dropdown">
@@ -124,7 +124,6 @@
                                     <a class="dropdown-item" href="mobiletech">MOBILE SOLUTIONS</a>
                                     <a class="dropdown-item" href="hosting">WEB HOSTING</a>
                                     <a class="dropdown-item" href="#">ONLINE SERVICES</a>
-                                    <a class="dropdown-item" href="#">SAAS</a>
                                 </div>
                             </li>
                             <li class="nav-item">

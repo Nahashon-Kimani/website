@@ -53,6 +53,7 @@ $route['default_controller'] = 'home/home';
 $route['about'] = 'home/about';
 $route['404_override'] = '';
 $route['home']='home/home';
+$route['onlineservices']='home/onlineservices';
 $route['mobiletech']='home/mobiletech';
 $route['hosting']='home/hosting';
 $route['webdev']='home/webdev';

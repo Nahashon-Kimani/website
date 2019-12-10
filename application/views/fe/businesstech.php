@@ -163,9 +163,6 @@
                                 <p>We strive to be there through thick and thin, rain or shine, delivering on every promise, every time. We deliver the promise.</p>
                                 <hr>
                             </div>
-
-
-
                             </div>
                         </div>
                     </div>
@@ -182,18 +179,16 @@
 <!-- About our business solution Ends  -->
 
 <!-- Call to action  -->
-<!-- intro section start -->
-<div class="intro-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <div class="intro-text">
-                    <h3><strong>Do not hesitate? Call us today</strong></h3>
-                    <a href="contact" class="btn btn-md">Contact Us</a>
+    <div class="intro-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 text-center">
+                    <div class="intro-text">
+                        <h3><strong>Do not hesitate? Call us today</strong></h3>
+                        <a href="contact" class="btn btn-md">Contact Us</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!-- intro section end -->
 <!-- Call to action Ends -->

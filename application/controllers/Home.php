@@ -46,4 +46,9 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/businesstech';
 		$this->load->view('fe/includes/template',$data);
 	}
+	function onlineservices(){
+		$data['page_title'] = 'Online Services';
+		$data['main_content'] = 'fe/onlineservices';
+		$this->load->view('fe/includes/template',$data);
+	}
 }

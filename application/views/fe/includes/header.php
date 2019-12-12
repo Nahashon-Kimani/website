@@ -4,7 +4,7 @@
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src="<?php echo base_url(); ?>=
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src="
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-TAGCODE');</script>
     <!-- End Google Tag Manager -->
@@ -48,36 +48,31 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="list-inline">
-                    <a href="<?php echo base_url(); ?>tel:1-XXX-XXX-XXX8"><i class="fa fa-phone"></i>1-XXX-XXX-XXX8</a>
-                    <a href="<?php echo base_url(); ?>tel:info@themevessel.com"><i class="fa fa-envelope"></i>info@themevessel.com</a>
+                    <a href="tel:0705610800"><i class="fa fa-phone"></i>0705610800/0710286776</a>
+                    <a href="tel:info@etagservice.com"><i class="fa fa-envelope"></i>info@etagservice.com</a>
+                    <a href="#"><i class="fa fa-skype" aria-hidden="true"></i> Skype</a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul class="top-social-media pull-right">
                     <li>
-                        <a href="<?php echo base_url(); ?>#" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li>
-                        <a href="<?php echo base_url(); ?>#" class="twitter"><i class="fa fa-twitter"></i></a>
+                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li>
-                        <a href="<?php echo base_url(); ?>#" class="google"><i class="fa fa-google-plus"></i></a>
+                        <a href="#" class="google"><i class="fa fa-google-plus"></i></a>
                     </li>
                     <li>
-                        <a href="<?php echo base_url(); ?>#" class="linkedin"><i class="fa fa-linkedin"></i> </a>
+                        <a href="#" class="linkedin"><i class="fa fa-linkedin"></i> </a>
                     </li>
-                    <li>
-                        <a href="<?php echo base_url(); ?>#" class="rss"><i class="fa fa-instagram"></i></a>
-                    </li>
-                    <li>
-                        <a href="<?php echo base_url(); ?>#">/</a>
-                    </li>
-                    <li>
+                    <!-- <li>
                         <a href="<?php echo base_url(); ?>login.html" class="sign-in"><i class="fa fa-sign-in"></i> Login </a>
                     </li>
                     <li>
                         <a href="<?php echo base_url(); ?>login.html" class="sign-in"><i class="fa fa-user"></i> Register</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>

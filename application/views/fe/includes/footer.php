@@ -1,10 +1,62 @@
 <!-- Footer start -->
 <footer class="footer">
     <div class="container footer-inner">
+
+        <div class="row">
+            <!-- Contact Us -->
+            <div class="col-md-4 col-sm-6">
+                <div class="footer-item">
+                    <h4>Contact Us</h4>
+                        <ul class="contact-info">
+                            <li>
+                                <i class="fa fa-phone" aria-hidden="true"></i> 0705610800
+                            </li>
+
+                            <li>
+                                <i class="fa fa-phone" aria-hidden="true"></i> 0705610800
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Email Us -->
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-item">
+                        <h4>Email Us</h4>
+                        <ul class="contact-info">
+                            <li><i class="fa fa-envelope" aria-hidden="true"></i> info@etagservices.com</li>
+                            <li><i class="fa fa-envelope" aria-hidden="true"></i> clients@etagservices.com</li>
+                        </ul>
+                    </div>
+                </div>
+
+                    <!-- Our services -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-item">
+                        <h4 class="text-center">Our Services</h4>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <ul class="contact-info">
+                                    <li><a href="webdev"> <i class="fa fa-wordpress" aria-hidden="true"></i> Websites</a></li>
+                                    <li><a href="mobiletech"> <i class="fa fa-mobile" aria-hidden="true"></i> Mobile Apps</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="contact-info">
+                                    <li><a href="businesstech"><i class="fa fa-briefcase" aria-hidden="true"></i> SAAS</a></li>
+                                    <li><a href="onlineservices"> <i class="fa fa-cloud" aria-hidden="true"></i>Online Services</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
         <div class="row">
             <div class="col-xl-12">
                 <p class="copy">&copy; <?php echo date("Y"); ?> 
-						<a href="http://mytestwebsite.com/" target="_blank">Etagservices Limited</a>. 
+						<a href="contact" target="_blank">
+                            <strong><span style="color:#ff214f;">Etagservices Limited.</span></strong>
+                        </a>
 						All right reserved!
 				</p>
             </div>

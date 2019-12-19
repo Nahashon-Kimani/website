@@ -18,14 +18,12 @@
         <div class="row">
             <div class="col-lg-5 col-md-5">
                 <div class="managment-info">
-                    <h1><span>Develop </span>Your Mobile App With us</h1>
+                    <h1><span>Develop </span>With us</h1>
                     <div class="managment-border-"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<span> aliqua.Ut enim ad minim veniam, quis</span></p>
-                    <ul>
-                        <li><i class="flaticon-up-arrow"></i>Deep Customization Process</li>
-                        <li><i class="flaticon-building"></i>Industry Specialization</li>
-                        <li><i class="flaticon-three"></i>Unique Sales Methodoligies</li>
-                    </ul>
+                    <p> We create apps interface that creates an emotional connection with our Clients. 
+                        Think about the customer and what they might find helpful or interesting. 
+                        Our team of expert developers are equipped with all technology
+                        and have created magnificent working apps for our prestigious client base across the globe.</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-7 offset-lg-1">
@@ -41,12 +39,9 @@
 <div class="intro-section" style="margin-top: 20px; margin-bottom: 20px;">
     <div class="container">
         <div class="row">
-            <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-                <img src="<?php echo base_url(); ?>assets/img/logos/logo-white.png" alt="loo">
-            </div>
-            <div class="col-xl-8 col-lg-7 col-md-7 col-sm-12">
+            <div class="col-xl-10 col-lg-9 col-md-9 col-sm-12">
                 <div class="intro-text">
-                    <h3><strong>Get A Mobile App Development Quote Now</strong></h3>
+                    <h3 class="text-center"><strong>Get A Mobile App Development Quote Now </strong></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm-12">
@@ -77,27 +72,17 @@
                                     </div>
                                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
                                         <p class="lead">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae.
+                                            It's always a pleasure to work with Will and his team. They are personable, responsive, and results-oriented!
                                         </p>
                                         <div class="author-name">
                                             Emma Connor
                                         </div>
                                         <ul class="rating">
-                                            <li>
-                                                <i class="fa fa-star"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-star"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-star"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-star"></i>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-star-half-full"></i>
-                                            </li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star-half-full"></i></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -111,7 +96,7 @@
                                     </div>
                                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
                                         <p class="lead">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae.
+                                            Always available to answer any questions. Very knowledgeable about the services they provide. Would recommend to anyone!
                                         </p>
                                         <div class="author-name">
                                             Martin Smith
@@ -145,7 +130,7 @@
                                     </div>
                                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
                                         <p class="lead">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae.
+                                            I’m glad to have decided and worked with you. Am grateful seeing how easy it is to update and manage my newly developed website.
                                         </p>
                                         <div class="author-name">
                                             John Antony
@@ -196,9 +181,9 @@
         <div class="row">
         <!-- Text side -->
             <div class="col-md-6">
-                <h1 class="display-4">Previous Mobile App Developments</h1>
+                <h1 class="display-4"><span>Previous</span> Mobile App</h1>
 
-                <a id="" class="btn btn-color btn-lg" href="#" role="button">
+                <a id="" class="btn btn-color btn-lg" href="" role="button">
                    The App 
                    <i class="fa fa-angle-right" aria-hidden="true"></i>
                 </a>
@@ -247,7 +232,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h1 class="h1 display-3">
-                        Get <span> Started</span> With Website
+                         <span>Get </span>Started With Website
                     </h1>
                         <p class="text-center"> We have a vested interest in each and every software development project. 
                         On top of development, we provides support to each project for as 
@@ -257,14 +242,14 @@
             <div class="row">
             <!-- Start project button -->
                 <div class="col-md-6 text-right button">
-                    <a href="contact" class="btn btn-border btn-lg">
+                    <a href="contact" class="btn btn-border btn-lg" title="Start a Project" >
                         Start a Project
                         <i class="fa fa-angle-right" aria-hidden="true"></i>
                     </a>
                 </div>
             <!-- Contact Us button -->
                 <div class="col-md-6 text-left button">
-                    <a href="contact" class="btn btn-color btn-lg">
+                    <a href="contact" class="btn btn-color btn-lg" title="Contact Us" >
                         Contact Us
                         <i class="fa fa-angle-right" aria-hidden="true"></i>
                     </a>

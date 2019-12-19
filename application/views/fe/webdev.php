@@ -251,11 +251,11 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-                <img src="<?php echo base_url(); ?>assets/img/logos/logo-white.png" alt="loo">
+                <img src="<?php echo base_url(); ?>assets/img/logos/logo.png" alt="loo">
             </div>
             <div class="col-xl-8 col-lg-7 col-md-7 col-sm-12">
                 <div class="intro-text">
-                    <h3><strong>Don't hesitate! Get your website online today</strong></h3>
+                    <h3 class="text-right"><strong>Don't hesitate! Get one online today</strong></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm-12">

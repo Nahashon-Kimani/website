@@ -2111,6 +2111,11 @@ a {
     margin-bottom: 50px;
 }
 
+.footer-item i {
+    color: #ff214f;
+    font-size: 18px;
+}
+
 /** PROJECT SPECIFICATION START **/
 .project-specification-2 ul {
     margin-bottom: 15px;
@@ -2119,7 +2124,7 @@ a {
 .project-specification-2 ul li {
     margin-bottom: 10px;
     color: #5a5959;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .project-specification-2 p {

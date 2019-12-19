@@ -237,13 +237,13 @@
 			<div class="col-md-5">
                 <div class="progress">
                     <div class="bg-danger progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
-                        Web Development 95%
+                        <span class="text-white font-weight-bold"> WEB SERVICES 95%</span>
                     </div>
                 </div>
                 <br>
                     <div class="progress">
                         <div class="bg-danger progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 97%">
-                            Online Services 95%
+                            <span class="text-white font-weight-bold"> SAAS DEVELOPMENT 95%</span>
                         </div>
                     </div>
 			</div>
@@ -251,13 +251,14 @@
             <div class="col-md-5">
                     <div class="progress height:3px;">
                             <div class="bg-danger progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
-                                <span class="text-white font-weight-bold"> ONLINE SERVICES 100%</span>
+                                <span class="text-white font-weight-bold"> ONLINE SERVICES 95%</span>
                             </div>
                         </div>
                         <br>
                             <div class="progress">
                                 <div class="bg-danger progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 97%">
-                                    BUSINESS SOLUTIONS 95%
+                                    <!--  95% -->
+                                    <span class="text-white font-weight-bold"> BUSINESS SOLUTIONS 97%</span>
                                 </div>
                             </div>
 			</div>

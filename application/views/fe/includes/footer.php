@@ -9,11 +9,12 @@
                     <h4>Contact Us</h4>
                         <ul class="contact-info">
                             <li>
-                                <i class="fa fa-phone" aria-hidden="true"></i> 0705610800
+                                <i class="fa fa-phone" aria-hidden="true"></i> 
+                                <a href="tel:+254782555006">+254782555006</a> 
                             </li>
-
                             <li>
-                                <i class="fa fa-phone" aria-hidden="true"></i> 0705610800
+                                <i class="fa fa-phone" aria-hidden="true"></i>
+                                <a href="tel:+254705610800">+254705610800</a>
                             </li>
                         </ul>
                     </div>
@@ -24,8 +25,19 @@
                     <div class="footer-item">
                         <h4>Email Us</h4>
                         <ul class="contact-info">
-                            <li><i class="fa fa-envelope" aria-hidden="true"></i> info@etagservices.com</li>
-                            <li><i class="fa fa-envelope" aria-hidden="true"></i> clients@etagservices.com</li>
+                            <li>
+                                <i class="fa fa-envelope" aria-hidden="true"></i> 
+                                <a href="mailto:info@etagservices.com">
+                                    info@etagservices.com
+                                </a> 
+                            </li>
+
+                            <li>
+                                <i class="fa fa-envelope" aria-hidden="true"></i> 
+                                <a href="mailto:clients@etagservices.com">
+                                    clients@etagservices.com
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -65,7 +77,7 @@
 </footer>
 <!-- Footer end -->
 
-<!-- Off-canvas sidebar -->
+<!-- Off-canvas sidebar
 <div class="off-canvas-sidebar">
     <div class="off-canvas-sidebar-wrapper">
         <div class="off-canvas-header">
@@ -98,7 +110,7 @@
             </aside>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- External JS libraries -->
 <script src="<?php echo base_url(); ?>assets/js/jquery-2.2.0.min.js"></script>

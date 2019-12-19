@@ -18,11 +18,11 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="managment-info">
-                    <h1>WEB <span>DEVELOPMENT</span> SERVICES</h1>
+                    <h1> <span>WEB </span>DEVELOPMENT SERVICES</h1>
                     <p class="text-justify">People search online then buy locally. 
                         The decision of what to buy (including church) is made on 
-                        the InternetP. eople search for a church, bible college, 
-                        Christian concert online before attending. Recruitment 
+                        the Internet. People search for a church, bible college, 
+                        concerts, events, jobs online before attending. Recruitment 
                         happens via Facebook and social networks. The Internet is 
                         no longer a tool which is used to increase offline 
                         “brick and mortar” enterprices, instead it is the 
@@ -61,20 +61,25 @@
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                    <i class="fa fa-user" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Consultative Training</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h5>Personal Websites</h5>
+                        <p> It gives you brand integrity and access to many 
+                            customers. Having a personal website helps you 
+                            to influence and add value to them by sharing 
+                            your knowledge. </p>
                     </div>
                 </div>
             </div>
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                    <i class="fa fa-university" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Consultative Training</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h5>Institutional Websites</h5>
+                        <p> Having a website and online presence strategy 
+                            allows you to market your business online
+                            and establish credibility of the business. </p>
                     </div>
                 </div>
             </div>
@@ -93,20 +98,24 @@
 
                 <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                    <i class="fa fa-sitemap" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Consultative Training</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h5>Cooporate Websites</h5>
+                        <p> Make your organization's mission and purpose stand
+                            out. As Cooporates, using websites helps you look 
+                            more professional and gives you useful a communication channel</p>
                     </div>
                 </div>
             </div>
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                    <i class="fa fa-snowflake-o" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Consultative Training</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <h5> Web Applications</h5>
+                        <p> Web applications give your businesses the ability to 
+                            streamline your operations, increase efficiency, 
+                            and reduce costs.</p>
                     </div>
                 </div>
             </div>
@@ -162,6 +171,7 @@
                         </ul>
                     </div>
                     <div class="button"><a href="#" class="btn btn-sm btn-color">Get started</a></div>
+                    <p><em>Most preferred</em></p>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-12">
@@ -193,13 +203,17 @@
         <div class="main-title">
             <h1><span>After </span>Development Services</h1>
         </div>
-        <div class="row">
+        <div class="row text-justify">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="media services-info">
                         <i class="fa fa-phone" aria-hidden="true"></i>
                     <div class="media-body">
-                        <h5>Search Engine Optimization </h5>
-                        <p>We do SEO. </p>
+                        <h5>SEO, Search Engine Optimization</h5>
+                        <p> After developing, we optimize your site to earn a 
+                            higher ranking in results pages, to earn more 
+                            clicks and generate traffic to your site. With 
+                            SEO  user experience is improves, making it 
+                            more likely for customers to become repeat buyers. </p>
                     </div>
                 </div>
             </div>
@@ -208,7 +222,9 @@
                         <i class="fa fa-envelope" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Host your website</h5>
-                        <p>We provide hosting services</p>
+                        <p> We not only run your site locally, we make it globally 
+                            available making it easy for your visitors around 
+                            the world to access it.</p>
                     </div>
                 </div>
             </div>
@@ -217,7 +233,11 @@
                         <i class="fa fa-calendar" aria-hidden="true"></i>
                     <div class="media-body">
                        <h5>Maintain/Update your site</h5>
-                       <p>We provide these services</p>
+                       <p>  We don't leave it at that, we regularly maintain 
+                            and update your website to continue attracting 
+                            and retaining customers, maintain search engine 
+                            rankings and present new information, products 
+                            and services to the public.</p>
                     </div>
                 </div>
             </div>

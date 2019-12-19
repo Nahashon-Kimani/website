@@ -48,7 +48,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="list-inline">
-                    <a href="tel:0705610800"><i class="fa fa-phone"></i>0705610800/0710286776</a>
+                    <a href="tel:+254782555006"><i class="fa fa-phone"></i>0782555006/0705610800</a>
                     <a href="tel:info@etagservice.com"><i class="fa fa-envelope"></i>info@etagservice.com</a>
                     <a href="#"><i class="fa fa-skype" aria-hidden="true"></i> Skype</a>
                 </div>
@@ -87,7 +87,7 @@
             <div class="col-12">
                 <nav class="navbar navbar-expand-lg navbar-light rounded">
                     <a class="navbar-brand logo" href="<?php echo base_url(); ?>index.html">
-                        <img src="<?php echo base_url(); ?>assets/img/logos/black-logo.png" alt="logo">
+                        <img src="<?php echo base_url(); ?>assets/img/logos/logo.png" alt="logo">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="fa fa-bars"></span>

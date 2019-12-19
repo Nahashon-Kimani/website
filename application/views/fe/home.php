@@ -190,7 +190,7 @@
                     <i class="fa fa-internet-explorer" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5 class="mt-0">WEB HOSTING</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>Make your brand globally available making it easy for your diverse visitors around the world to access it. </p>
                     </div>
                 </div>
             </div>
@@ -199,7 +199,7 @@
                     <i class="flaticon-connection-1"></i>
                     <div class="media-body">
                         <h5>SAAS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>We host applications as third-party provider hosts applications and makes them available to customers over the Internet.</p>
                     </div>
                 </div>
             </div>
@@ -208,7 +208,7 @@
                     <i class="flaticon-commerce-1"></i>
                     <div class="media-body">
                         <h5>ONLINE SERVICES</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>We host applications as third-party provider hosts applications and makes them available to customers over the Internet.</p>
                     </div>
                 </div>
             </div>
@@ -222,7 +222,7 @@
 		<div class="services content-area-2 bg-grea">
 			<div class="container">
 				<div class="main-title">
-					<h1>Our<span> Recent</span> Project</h1>
+					<h1><span>Our </span>Recent Project</h1>
 				<p>Explore some of the best business from around the world from our partners and friends.</p>
 				</div>
 			</div>

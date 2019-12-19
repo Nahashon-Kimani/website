@@ -20,12 +20,18 @@
                 <div class="managment-info">
                     <h1><span>Why</span> Choose Us?</h1>
                     <div class="managment-border-"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<span> aliqua.Ut enim ad minim veniam, quis</span></p>
+                    <p class="text-justify"> Our competence assures clients the need for hiring 
+                        our in-house staff support for a software development. 
+                        We have highly skilled engineers with excellent 
+                        technical knowledge and experience who are able to 
+                        respond to any new technology demands for our clients.
+                    </p>
+                    <!-- <p>We are base on: </p>
                     <ul>
                         <li><i class="flaticon-up-arrow"></i>Deep Customization Process</li>
-                        <li><i class="flaticon-building"></i>Industry Specialization</li>
-                        <li><i class="flaticon-three"></i>Unique Sales Methodoligies</li>
-                    </ul>
+                        <li><i class="flaticon-building"></i>Software Specialization</li>
+                        <li><i class="flaticon-three"></i>Unique Development Methodoligies</li>
+                    </ul> -->
                 </div>
             </div>
             <div class="col-lg-6 col-md-7 offset-lg-1">
@@ -73,7 +79,7 @@
 			<!-- Mission -->
 			<div class="col-md-4">
 				<div class="counter-box">
-					<i class="flaticon-cup"></i>
+                        <i class="fa fa-bullseye" aria-hidden="true"></i>
 					<h5 class="font-weight-bold" style="color:#ff214f;">Mission</h5>
 					<p class="text-justify text-white">Enhancing the 
 						business growth of our customers with creative Design 
@@ -85,7 +91,7 @@
 			<!-- Vision -->
 			<div class="col-md-4">
 				<div class="counter-box">
-					<i class="flaticon-cup"></i>
+                        <i class="fa fa-eye" aria-hidden="true"></i>
 					<h5 class="font-weight-bold" style="color:#ff214f;">Vision</h5>
 					<p class="text-center text-white">To deliver market-defining 
 						high-quality solutions that create value and reliable 
@@ -95,7 +101,7 @@
 			<!-- Our Drive -->
 			<div class="col-md-4">
 				<div class="counter-box">
-					<i class="flaticon-cup"></i>
+                        <i class="fa fa-car" aria-hidden="true"></i>
 					<h5 class="font-weight-bold" style="color:#ff214f;">Our Drive</h5>
 					<p class="text-justify text-white">Our mission is to enhancing the 
 						business growth of our customers with creative Design 
@@ -200,7 +206,7 @@
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="counter-box">
                     <i class="flaticon-people-1"></i>
-                    <h1 class="counter">24</h1>
+                    <h1 class="counter">4</h1>
                     <h5>Skilled Developers</h5>
                 </div>
             </div>

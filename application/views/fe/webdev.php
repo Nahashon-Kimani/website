@@ -55,10 +55,9 @@
 
         <!-- Category section -->
 
-        <div class="row">
-            <!-- section a -->
-            <div class="col-md-4">
-
+    <div class="row text-justify">
+        <!-- section a -->
+        <div class="col-sm-12 col-md-6">
             <div class="col-sm-12">
                 <div class="media services-info">
                     <i class="fa fa-user" aria-hidden="true"></i>
@@ -87,16 +86,15 @@
             </div>
 
             <!-- Section b -->
-                <div class="col-md-4">
+                <!-- <div class="hidden-sm col-md-4">
                     <img src="<?php echo base_url(); ?>assets/img/portfolio/img-3.jpg"
                         style="width:inherit; height:inherit;"
                         alt="About web developmnt">
-                </div>
+                </div> -->
 
             <!-- Section c -->
-                <div class="col-md-4">
-
-                <div class="col-sm-12">
+        <div class="col-sm-12 col-md-6">
+            <div class="col-sm-12">
                 <div class="media services-info">
                     <i class="fa fa-sitemap" aria-hidden="true"></i>
                     <div class="media-body">
@@ -204,39 +202,41 @@
             <h1><span>After </span>Development Services</h1>
         </div>
         <div class="row text-justify">
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-12 col-sm-6">
                 <div class="media services-info">
-                        <i class="fa fa-phone" aria-hidden="true"></i>
+                        <i class="flaticon-up-arrow"></i>
                     <div class="media-body">
                         <h5>SEO, Search Engine Optimization</h5>
-                        <p> After developing, we optimize your site to earn a 
-                            higher ranking in results pages, to earn more 
-                            clicks and generate traffic to your site. With 
-                            SEO  user experience is improves, making it 
-                            more likely for customers to become repeat buyers. </p>
+                        <p> We optimize your site to earn a 
+                            higher ranking, more clicks and 
+                            generate traffic. This improves 
+                            user experience is , making it 
+                            more likely for customers to 
+                            become repeat buyers. </p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-12 col-sm-6">
                 <div class="media services-info">
-                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <i class="fa fa-cloud-upload" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Host your website</h5>
-                        <p> We not only run your site locally, we make it globally 
-                            available making it easy for your visitors around 
-                            the world to access it.</p>
+                        <p> We not only develop and run your 
+                            site locally, we make it globally 
+                            available making it easy for your 
+                            visitors around the world to access it.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-12 col-sm-6">
                 <div class="media services-info">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i class="fa fa-wrench" aria-hidden="true"></i>
                     <div class="media-body">
                        <h5>Maintain/Update your site</h5>
-                       <p>  We don't leave it at that, we regularly maintain 
-                            and update your website to continue attracting 
-                            and retaining customers, maintain search engine 
-                            rankings and present new information, products 
+                       <p>  We regularly update your website 
+                            to continue attracting 
+                            customers, maintain search  
+                            rankings and present new information 
                             and services to the public.</p>
                     </div>
                 </div>
@@ -255,7 +255,7 @@
             </div>
             <div class="col-xl-8 col-lg-7 col-md-7 col-sm-12">
                 <div class="intro-text">
-                    <h3><strong>Do not hesitate? Get your website online today</strong></h3>
+                    <h3><strong>Don't hesitate! Get your website online today</strong></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm-12">

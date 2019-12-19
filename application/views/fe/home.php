@@ -199,7 +199,7 @@
                     <i class="flaticon-connection-1"></i>
                     <div class="media-body">
                         <h5>SAAS</h5>
-                        <p>We host applications as third-party provider hosts applications and makes them available to customers over the Internet.</p>
+                        <p>We host applications as third-party provider and makes them available to customers over the Internet for their personal and diverse uses to take advantage of Scalability, updates and ease of use.</p>
                     </div>
                 </div>
             </div>

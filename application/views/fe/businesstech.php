@@ -27,13 +27,17 @@
 
         <div class="row">
             <!-- section a -->
-            <div class="col col-md-4">
+            <div class="col col-md-6">
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-free-code-camp" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>ODOO POS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Odoo is an all-in-one business software 
+                            including CRM, website/e-commerce, billing, 
+                            accounting, manufacturing, warehouse project 
+                            management, and inventory put together just 
+                            to grow business. </p>
                         <div class="button text-right">
                                 <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
@@ -43,10 +47,14 @@
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-cutlery" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Restaurant Systems</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Simplifies communications between staff 
+                            as it tracks everything from food usage 
+                            to the most popular menu items. The system 
+                            also acts as a time clock, prepares your 
+                            payroll automatically. </p>
                         <div class="button text-right">
                                 <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
@@ -57,21 +65,26 @@
             </div>
 
             <!-- Section b -->
-                <div class="col-md-4 hidden-sm">
+                <!-- <div class="col-md-4 hidden-sm">
                     <img src="<?php echo base_url(); ?>assets/img/portfolio/img-3.jpg"
                         style="width:inherit; height:inherit;"
                         alt="About web developmnt">
-                </div>
+                </div> -->
 
             <!-- Section c -->
-                <div class="col col-md-4">
+                <div class="col col-md-6">
 
                 <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-wrench" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Hardware Systems</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Automate your hardware from customers 
+                            checkout to printing of receipts to 
+                            keeping track of every item that is  
+                            in the store, bought and sold in real 
+                            time as you automatically generate sales
+                            reports and payroll. </p>
                         <div class="button text-right">
                                 <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
@@ -81,10 +94,14 @@
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="flaticon-connection-1"></i>
                     <div class="media-body">
                         <h5>SAAS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> We host applications as third-party provider 
+                            and makes them available to customers over 
+                            the Internet for their personal and diverse 
+                            uses to take advantage of Scalability, 
+                            updates and ease of use.</p>
                             <div class="button text-right">
                                 <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>

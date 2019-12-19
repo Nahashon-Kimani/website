@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 <head>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -8,7 +8,7 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-TAGCODE');</script>
     <!-- End Google Tag Manager -->
-    <title>BIZNEX - Multipurpose Business And Corporate HTML5 Template</title>
+    <title>Etagservice | Middleware to Reliability</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <!-- External CSS libraries -->
@@ -48,7 +48,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="list-inline">
-                    <a href="tel:+254782555006"><i class="fa fa-phone"></i>0782555006/0705610800</a>
+                    <a href="tel:+254782555006"><i class="fa fa-phone"></i>0782-555-006</a>
                     <a href="tel:info@etagservice.com"><i class="fa fa-envelope"></i>info@etagservice.com</a>
                     <a href="#"><i class="fa fa-skype" aria-hidden="true"></i> Skype</a>
                 </div>

@@ -10,11 +10,11 @@
                         <ul class="contact-info">
                             <li>
                                 <i class="fa fa-phone" aria-hidden="true"></i> 
-                                <a href="tel:+254782555006">+254782555006</a> 
+                                <a href="tel:+254782555006">+254-782-555-006</a> 
                             </li>
                             <li>
                                 <i class="fa fa-phone" aria-hidden="true"></i>
-                                <a href="tel:+254705610800">+254705610800</a>
+                                <a href="tel:+254705610800">+254-705-610-800</a>
                             </li>
                         </ul>
                     </div>

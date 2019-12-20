@@ -27,16 +27,19 @@
 
         <div class="row">
             <!-- section a -->
-            <div class="col-md-4">
-
+            <div class="col col-md-6">
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-free-code-camp" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>ODOO POS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Odoo is an all-in-one business software 
+                            including CRM, website/e-commerce, billing, 
+                            accounting, manufacturing, warehouse project 
+                            management, and inventory put together just 
+                            to grow business. </p>
                         <div class="button text-right">
-                                <a href="contact" class="btn btn-sm btn-border">Read More...</a>
+                                <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
                     </div>
                 </div>
@@ -44,12 +47,16 @@
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-cutlery" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Restaurant Systems</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Simplifies communications between staff 
+                            as it tracks everything from food usage 
+                            to the most popular menu items. The system 
+                            also acts as a time clock, prepares your 
+                            payroll automatically. </p>
                         <div class="button text-right">
-                                <a href="contact" class="btn btn-sm btn-border">Read More...</a>
+                                <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
                     </div>
                 </div>
@@ -58,23 +65,28 @@
             </div>
 
             <!-- Section b -->
-                <div class="col-md-4">
+                <!-- <div class="col-md-4 hidden-sm">
                     <img src="<?php echo base_url(); ?>assets/img/portfolio/img-3.jpg"
                         style="width:inherit; height:inherit;"
                         alt="About web developmnt">
-                </div>
+                </div> -->
 
             <!-- Section c -->
-                <div class="col-md-4">
+                <div class="col col-md-6">
 
                 <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-wrench" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Hardware Systems</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Automate your hardware from customers 
+                            checkout to printing of receipts to 
+                            keeping track of every item that is  
+                            in the store, bought and sold in real 
+                            time as you automatically generate sales
+                            reports and payroll. </p>
                         <div class="button text-right">
-                                <a href="contact" class="btn btn-sm btn-border">Read More...</a>
+                                <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
                     </div>
                 </div>
@@ -82,12 +94,16 @@
 
             <div class="col-sm-12">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="flaticon-connection-1"></i>
                     <div class="media-body">
                         <h5>SAAS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> We host applications as third-party provider 
+                            and makes them available to customers over 
+                            the Internet for their personal and diverse 
+                            uses to take advantage of Scalability, 
+                            updates and ease of use.</p>
                             <div class="button text-right">
-                                <a href="contact" class="btn btn-sm btn-border">Read More...</a>
+                                <!-- <a href="contact" class="btn btn-sm btn-border">Read More...</a> -->
                             </div>
                     </div>
                 </div>
@@ -123,44 +139,52 @@
 							<!-- Excellence -->
                             <div class="card-header">
                                 <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse1">
-                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Excellence
+                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Highly Automated
                                 </a>
                             </div>
                             <div id="collapse1" class="card-block collapse">
-                               <p class="text-justify">We strive for continuous improvement. We aim at producing the best we are capable of as we challenge the process and opinions as we endlessly learn and grow to unleash potentials and stretch our limits</p>
+                                <p class="text-justify">
+                                    <!-- We strive for continuous improvement. We aim at producing the best we are capable of as we challenge the process and opinions as we endlessly learn and grow to unleash potentials and stretch our limits -->
+                                </p>
                                 <hr>
                             </div>
 
                             <!-- Quality -->
                             <div class="card-header">
                                 <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse2">
-                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Quality
+                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> High Quality
                                 </a>
                             </div>
                             <div id="collapse2" class="card-block collapse">
-                                <p class="text-justify">We take pride in providing high value products and services that we stand behind to ensures customer satisfaction, profitability to meet or exceed their expectations.</p>
+                                <p class="text-justify">
+                                    <!-- We take pride in providing high value products and services that we stand behind to ensures customer satisfaction, profitability to meet or exceed their expectations. -->
+                                </p>
                                 <hr>
                             </div>
 
                             <!-- Innovation -->
                             <div class="card-header">
                                 <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse3">
-                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Innovation
+                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Powerful
                                 </a>
                             </div>
                             <div id="collapse3" class="card-block collapse">
-                                <p>We believe that only innovation can keep us ahead our competitors and as a team we always provides extra emphasis on innovation to serve our customer better and bring value to their business. </p>
+                                <p class="text-justify">
+                                    <!-- We believe that only innovation can keep us ahead our competitors and as a team we always provides extra emphasis on innovation to serve our customer better and bring value to their business.  -->
+                                </p>
                                 <hr>
                             </div>
 
                             <!-- Reliability -->
                             <div class="card-header border-0">
                                 <a class="card-title collapsed" data-toggle="collapse" data-parent="#faq" href="#collapse4">
-                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Reliability
+                                    <span class="answer-helpful"><i class="fa fa-thumbs-o-up title"></i></span> Reliable
                                 </a>
                             </div>
                             <div id="collapse4" class="card-block collapse">
-                                <p>We strive to be there through thick and thin, rain or shine, delivering on every promise, every time. We deliver the promise.</p>
+                                <p class="text-justify">
+                                    <!-- We strive to be there through thick and thin, rain or shine, delivering on every promise, every time. We deliver the promise. -->
+                                </p>
                                 <hr>
                             </div>
                             </div>
@@ -182,12 +206,14 @@
     <div class="intro-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 col-sm-12 text-center">
+                <div class="col-md-10 text-center">
                     <div class="intro-text">
-                        <h3><strong>Do not hesitate? Call us today</strong></h3>
-                        <a href="contact" class="btn btn-md">Contact Us</a>
+                        <h3><strong>Need a Demo </strong> on any Solution? Call or Email Us Today!! </h3>
                     </div>
                 </div>
+                <div class="col-md-2">
+                        <a href="contact" class="btn btn-md">Call Us</a>
+                    </div>
             </div>
         </div>
     </div>

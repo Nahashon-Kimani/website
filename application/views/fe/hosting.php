@@ -25,28 +25,20 @@
 
             <div class="col-md-6">
                 <div class="managment-info">
-                    <h1>WEB <span>HOSTING</span> SERVICES</h1>
+                    <h1> <span>WEB </span>HOSTING SERVICES</h1>
                         <div class="managment-border-"></div>
-                    <p class="text-justify">Lorem ipsum dolor sit amet, 
-                        consectetur adipiscing elit, sed do eiusmod 
-                        tempor incididunt ut labore et dolore magna
-                        Lorem ipsum dolor sit amet, 
-                        consectetur adipiscing elit, sed do eiusmod 
-                        tempor incididunt ut labore et dolore magna</p>
+                        <p> From website design to web application development 
+                            and to the ultimate Web Hosting, we at Etagservice 
+                            provide you with affordable and prompt solutions. 
+                            We don't just host your site, we host and provide 
+                            you with necessary security, Bandwidth for speed 
+                            and all accompanying tools to make your experience 
+                            worth it.</p>
 
-                    <p class="text-justify">Lorem ipsum dolor sit amet, 
-                        consectetur adipiscing elit, sed do eiusmod 
-                        tempor incididunt ut labore et dolore magna
-                        Lorem ipsum dolor sit amet, 
-                        consectetur adipiscing elit, sed do eiusmod 
-                        tempor incididunt ut labore et dolore magna</p>
-
-                    <p class="text-justify">Lorem ipsum dolor sit amet, 
-                        consectetur adipiscing elit, sed do eiusmod 
-                        tempor incididunt ut labore et dolore magna
-                        Lorem ipsum dolor sit amet, 
-                        consectetur adipiscing elit, sed do eiusmod 
-                        tempor incididunt ut labore et dolore magna</p>
+                        <p> We are committed to offer the best solutions which 
+                            accompany applications that will suite your need 
+                            and meet the requirement of the market for a 
+                            massive success to our clients.</p>
                 </div>
         </div>
     </div>
@@ -95,6 +87,7 @@
                         </ul>
                     </div>
                     <div class="button"><a href="#" class="btn btn-sm btn-color">Get started</a></div>
+                    <p><em>Most preferred</em></p>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-12">
@@ -124,34 +117,48 @@
 <div class="services">
     <div class="container">
         <div class="main-title">
-            <h1><span>What makes</span> Our Service a Tick</h1>
-           <p>Explore some of the best business from around the world from our partners and friends.</p>
+            <h1><span>What </span>makes Our Service a Tick</h1>
+           <p>See how our hosting services inspires people </p>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-12 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-up-arrow"></i>
+                        <i class="fa fa-clock-o" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>24/7 Hours Support</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>We are 24/7 available to spport and assist our clients. 
+                        For assistance, contact us at any time</p> 
+                            <!-- through
+                                <ul>
+                                    <li>
+                                        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                                        <a href="mailto:clients@etagservice.com"><span style="color:#ff214f">clients@etagservice.com</span></a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-phone" aria-hidden="true"></i>
+                                        <a href="tel:+254782555006"><span style="color:#ff214f"> 0782-555-006 </span></a>
+                                    </li>
+                                </ul> -->
                     </div>
                 </div>
             </div>
-             <div class="col-lg-4 col-md-6 col-sm-6">
+             <div class="col-lg-4 col-md-12 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-graphic"></i>
+                        <i class="fa fa-shield" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>SSL Security Installation</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Security is key. We provide professional help to 
+                            configure the security of your system.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-12 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-social"></i>
+                        <i class="fa fa-cloud-upload" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5 class="mt-0">99% Uptime Guarantee</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p> Stop getting inconvinienced by untimely interruption. 
+                            We quarantee 99.9% uptime. </p>
                     </div>
                 </div>
             </div>

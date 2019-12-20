@@ -8,9 +8,9 @@
                     <div class="carousel-content container">
                         <div class="text-l">
                             <h1 data-animation="animated fadeInDown delay-05s">Grow Your Business</h1>
-                            <p data-animation="animated fadeInUp delay-10s">This is business website template based on Bootstrap 4 framework.</p>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a>
+                            <p data-animation="animated fadeInUp delay-10s">Advancing Beyond your expectations</p>
+                            <a data-animation="animated fadeInUp delay-10s" href="businesstech" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
+                            <!-- <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a> -->
                         </div>
                     </div>
                 </div>
@@ -20,10 +20,10 @@
                 <div class="carousel-caption banner-slider-inner d-flex h-100">
                     <div class="carousel-content container">
                         <div class="text-r">
-                            <h1 data-animation="animated fadeInDown delay-05s">Grow Your Business</h1>
-                            <p data-animation="animated fadeInUp delay-10s">This is business website template based on Bootstrap 4 framework.</p>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a>
+                            <h1 data-animation="animated fadeInDown delay-05s">Web Design</h1>
+                            <p data-animation="animated fadeInUp delay-10s">We Develop Wonderful, Innovative, Quality Web designs</p>
+                            <a data-animation="animated fadeInUp delay-10s" href="webdev" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
+                            <!-- <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a> -->
                         </div>
                     </div>
                 </div>
@@ -33,10 +33,24 @@
                 <div class="carousel-caption banner-slider-inner d-flex h-100">
                     <div class="carousel-content container">
                         <div class="text-c">
-                            <h1 data-animation="animated fadeInDown delay-05s">Grow Your Business</h1>
-                            <p data-animation="animated fadeInUp delay-10s">This is business website template based on Bootstrap 4 framework.</p>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
-                            <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a>
+                            <h1 data-animation="animated fadeInDown delay-05s">Mobile Apps</h1>
+                            <p data-animation="animated fadeInUp delay-10s">We build Smart Applications for smart Users</p>
+                            <a data-animation="animated fadeInUp delay-10s" href="mobiletech" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
+                            <!-- <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+                <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/banner-2.jpg" alt="banner">
+                <div class="carousel-caption banner-slider-inner d-flex h-100">
+                    <div class="carousel-content container">
+                        <div class="text-c">
+                            <h1 data-animation="animated fadeInDown delay-05s">Web/Online Services</h1>
+                            <p data-animation="animated fadeInUp delay-10s">Security and 100% Uptime is what defines us</p>
+                            <a data-animation="animated fadeInUp delay-10s" href="onlineservices" class="btn btn-lg btn-round btn-theme">Get Started Now</a>
+                            <!-- <a data-animation="animated fadeInUp delay-10s" href="#" class="btn btn-lg btn-round btn-white-lg-outline">Free Download</a> -->
                         </div>
                     </div>
                 </div>
@@ -61,7 +75,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-                <img src="<?php echo base_url(); ?>assets/img/logos/logo-white.png" alt="loo">
+                <img src="<?php echo base_url(); ?>assets/img/logos/logo.png" alt="logo">
             </div>
             <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
                 <div class="intro-text text-center">
@@ -85,12 +99,19 @@
                 <div class="managment-info">
                     <h1><span>Why</span> Choose Us?</h1>
                     <div class="managment-border-"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna<span> aliqua.Ut enim ad minim veniam, quis</span></p>
-                    <ul>
-                        <li><i class="flaticon-up-arrow"></i>Deep Customization Process</li>
-                        <li><i class="flaticon-building"></i>Industry Specialization</li>
-                        <li><i class="flaticon-three"></i>Unique Sales Methodoligies</li>
-                    </ul>
+                        <p> We do not claim to be the best but our competence 
+                            assure the clients the need for hiring our in-house 
+                            staff support for a software development. We have 
+                            highly skilled engineers with excellent technical 
+                            knowledge and experience and we invest continuously 
+                            in training and education, to be able to respond 
+                            to any new technology challenges and demands from our clients.</p>
+
+                        <p> We have a proven track of great success stories 
+                            working with diverse clients ranging by offering 
+                            excellent software development opportunities for business.</p>
+
+                        <a href="about" class="btn btn-border"><i class="fa fa-angle-right" aria-hidden="true"></i> Read More </a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-7 offset-lg-1">
@@ -134,7 +155,7 @@
     <div class="container">
         <div class="main-title">
             <h1><span>Our</span> Service</h1>
-           <p>Explore some of the best business from around the world from our partners and friends.</p>
+            <p>Explore some of our services that we offer. The building blocks of your company. </p>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
@@ -142,7 +163,7 @@
                     <i class="flaticon-up-arrow"></i>
                     <div class="media-body">
                         <h5>WEB SOLUTIONS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>Promote goodwill and your brand visibility online among customers and prospects. </p>
                     </div>
                 </div>
             </div>
@@ -151,25 +172,25 @@
                     <i class="flaticon-commerce"></i>
                     <div class="media-body">
                         <h5>BUSINESS SOLUTIONS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>Automate your business procedures, processes, methods, of operations to achieve a more profit. </p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-graphic"></i>
+                    <i class="fa fa-mobile" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>MOBILE SOLUTIONS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>Develop an App to improve business processes and increase the level of accessibility, connecting and interaction with customers.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="media services-info">
-                    <i class="flaticon-social"></i>
+                    <i class="fa fa-internet-explorer" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5 class="mt-0">WEB HOSTING</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>Make your brand globally available making it easy for your diverse visitors around the world to access it. </p>
                     </div>
                 </div>
             </div>
@@ -178,7 +199,7 @@
                     <i class="flaticon-connection-1"></i>
                     <div class="media-body">
                         <h5>SAAS</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>We host applications as third-party provider and makes them available to customers over the Internet for their personal and diverse uses to take advantage of Scalability, updates and ease of use.</p>
                     </div>
                 </div>
             </div>
@@ -187,7 +208,7 @@
                     <i class="flaticon-commerce-1"></i>
                     <div class="media-body">
                         <h5>ONLINE SERVICES</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        <p>We host applications as third-party provider hosts applications and makes them available to customers over the Internet.</p>
                     </div>
                 </div>
             </div>
@@ -201,7 +222,7 @@
 		<div class="services content-area-2 bg-grea">
 			<div class="container">
 				<div class="main-title">
-					<h1>Our<span> Recent</span> Project</h1>
+					<h1><span>Our </span>Recent Project</h1>
 				<p>Explore some of the best business from around the world from our partners and friends.</p>
 				</div>
 			</div>
@@ -256,11 +277,11 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
-                <img src="<?php echo base_url(); ?>assets/img/logos/logo-white.png" alt="loo">
+                <img src="<?php echo base_url(); ?>assets/img/logos/logo.png" alt="loo">
             </div>
             <div class="col-xl-8 col-lg-7 col-md-7 col-sm-12">
                 <div class="intro-text">
-                    <h3><strong>Do not hesitate? Call us today</strong></h3>
+                    <h3 class="text-center"><strong>Do not hesitate? Call us today</strong></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-lg-3 col-md-3 col-sm-12">

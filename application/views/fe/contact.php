@@ -54,29 +54,28 @@
 
             <div class=" offset-lg-1 col-lg-4 offset-md-0 col-md-5">
                 <div class="contact-info">
-					
                     <h3 style="color:#ff214f">Contact Info</h3>
                     <div class="media">
                         <i class="fa fa-map-marker"></i>
                         <div class="media-body">
                             <h5 class="mt-0" style="color:#ff214f">Office Address</h5>
-                            <p>20/F Green Road, Dhanmondi, Dhaka</p>
+                            <p>Physical Address</p>
                         </div>
                     </div>
                     <div class="media">
                         <i class="fa fa-phone"></i>
                         <div class="media-body">
                             <h5 class="mt-0" style="color:#ff214f">Phone Number</h5>
-                            <p>Office<a href="tel:0477-0477-8556-552">: XXXX XXXX XXX</a> </p>
-                            <p>Mobile<a href="tel:+0477-85x6-552">: +55 417 634 7X71</a> </p>
+                            <p>Office<a href="tel:+254782555006">:+254-782-555-006</a> </p>
+                            <p>Mobile<a href="tel:+254705610800">:+254-705-610-800</a> </p>
                         </div>
                     </div>
                     <div class="media mrg-btn-0">
                         <i class="fa fa-envelope"></i>
                         <div class="media-body">
                             <h5 class="mt-0" style="color:#ff214f">Email Address</h5>
-                            <p><a href="#">info@themevessel.com</a></p>
-                            <p><a href="#">http://themevessel.com</a></p>
+                            <p><a href="mailto:clients@mywebsite.com">clients@mywebsite.com</a> </p>
+                            <p><a href="mailto:info@etagservice.com">info@etagservice.com</a> </p>
                         </div>
 					</div>
 				</div>
@@ -98,7 +97,11 @@
                         <i class="fa fa-phone" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Have a question? Call us. </h5>
-                        <p>+254 705 610 800<br>+254 705 610 800</p>
+                        <p>
+                            <a href="tel:+254782555006">+254-782-555-006</a>
+                                <br>
+                            <a href="tel:+254705610800">+254-705-610-800</a> 
+                        </p>
                     </div>
                 </div>
             </div>
@@ -107,7 +110,8 @@
                         <i class="fa fa-envelope" aria-hidden="true"></i>
                     <div class="media-body">
                         <h5>Email US</h5>
-                        <p>info@mywebsite.com <br>clients@mywebsite.com </p>
+                        <p><a href="mailto:clients@mywebsite.com">clients@mywebsite.com</a> </p>
+                        <p><a href="mailto:info@etagservice.com">info@etagservice.com</a> </p>
                     </div>
                 </div>
             </div>
